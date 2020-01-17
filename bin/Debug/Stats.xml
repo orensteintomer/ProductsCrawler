@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProductStats xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductStats>
+    <Name>name1</Name>
+    <Price>74.72</Price>
+    <Score>0</Score>
+    <DeliveryPrice>Not Free</DeliveryPrice>
+    <Quantity>Exists</Quantity>
+    <CurrentStateImg>iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACR0lEQVQ4T5WTTUhUURzFh6Isolm8GZjvNyLTZnIVBi7KRZAELWOIECorcOMqEHQTfiAouSqIQgiCILA2BdFCsVzUIpBZpARWtqkgETOUxMSP33n+3zjmOGMHDv97/h/n3nfnTqAcYrHYqWg0+tF13RpLVaEbstnsQdPlQXMfHGJ5QBrDjmQyuZ5IJC6YbmK9ro2kKwKzwVQqpYFG6Xg8fk2a/C1p8j3kpE9KV4QaGfjK4A3TDegvMpYmtlH7Sz4rXRJ8QgtNrkmZPITjwWDQoXaM2if0XdVYX4ITkUik2msuBXZdYGDYpIa67bPPZjKZKuIinM3lcvvpG2Q9z7061r4T7FZL4zSNA9JEF50nf1Ga9R1yEzJn/QA+T6fTh1TbFQy32eVflib2w++hUOgoZq1wIRwOE2LvYbs3VA7aEYNe+It7qyfWwXHHcYJm2kTbPuIz8uc2p/YABp7C11pz6uOsT2Cge3tptXf/ZWinOY1Zt54Pw8tEPWyPeuTUx6y9APvCFuhd2TYw0OgbyAy9AmdoniN+IPZbawHkB7SZ+i21BYr3zegnw9+In+Eb+Ehm8C0cRntvl95m/wDkn3gmxaDxNsxTHCXqZHniPahf+Dd63gzOoLvgEhzC+Kqeltlsgfs7T8Ma1ClXMZgiLtqpPdp6jNoIvGKjpYHhEZoniwyWLRaoGkZ/4O7/6WIw1KnP+sdoxl/bZq+svTI4ZS0Dq/4pLf7QqfwfAH3d2vcGBtqhnsoKRo8xbSbeRL9gw06eyWFrLUIgsAG/ScGv4Sdt9gAAAABJRU5ErkJggg==</CurrentStateImg>
+  </ProductStats>
+  <ProductStats>
+    <Name>name2</Name>
+    <Price>19.97</Price>
+    <Score>0</Score>
+    <DeliveryPrice>Not Free</DeliveryPrice>
+    <Quantity>Exists</Quantity>
+    <CurrentStateImg>iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACR0lEQVQ4T5WTTUhUURzFh6Isolm8GZjvNyLTZnIVBi7KRZAELWOIECorcOMqEHQTfiAouSqIQgiCILA2BdFCsVzUIpBZpARWtqkgETOUxMSP33n+3zjmOGMHDv97/h/n3nfnTqAcYrHYqWg0+tF13RpLVaEbstnsQdPlQXMfHGJ5QBrDjmQyuZ5IJC6YbmK9ro2kKwKzwVQqpYFG6Xg8fk2a/C1p8j3kpE9KV4QaGfjK4A3TDegvMpYmtlH7Sz4rXRJ8QgtNrkmZPITjwWDQoXaM2if0XdVYX4ITkUik2msuBXZdYGDYpIa67bPPZjKZKuIinM3lcvvpG2Q9z7061r4T7FZL4zSNA9JEF50nf1Ga9R1yEzJn/QA+T6fTh1TbFQy32eVflib2w++hUOgoZq1wIRwOE2LvYbs3VA7aEYNe+It7qyfWwXHHcYJm2kTbPuIz8uc2p/YABp7C11pz6uOsT2Cge3tptXf/ZWinOY1Zt54Pw8tEPWyPeuTUx6y9APvCFuhd2TYw0OgbyAy9AmdoniN+IPZbawHkB7SZ+i21BYr3zegnw9+In+Eb+Ehm8C0cRntvl95m/wDkn3gmxaDxNsxTHCXqZHniPahf+Dd63gzOoLvgEhzC+Kqeltlsgfs7T8Ma1ClXMZgiLtqpPdp6jNoIvGKjpYHhEZoniwyWLRaoGkZ/4O7/6WIw1KnP+sdoxl/bZq+svTI4ZS0Dq/4pLf7QqfwfAH3d2vcGBtqhnsoKRo8xbSbeRL9gw06eyWFrLUIgsAG/ScGv4Sdt9gAAAABJRU5ErkJggg==</CurrentStateImg>
+  </ProductStats>
+</ArrayOfProductStats>

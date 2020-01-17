@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProductPresentor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductPresentor>
+    <Name>name1</Name>
+    <InternetAddress>http://www.walmart.com/ip/Silvertone-SD3000-Acoustic-Guitar-Package-Black/12330365</InternetAddress>
+  </ProductPresentor>
+  <ProductPresentor>
+    <Name>name2</Name>
+    <InternetAddress>https://www.walmart.com/ip/Nerf-N-Strike-Elite-Split-Strike-Blaster/45791115</InternetAddress>
+  </ProductPresentor>
+</ArrayOfProductPresentor>
